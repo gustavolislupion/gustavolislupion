@@ -3,7 +3,7 @@
 -  
 -👋 Óla meu nome é @gustavolislupion
 
--👀 Meu email de contato é gustavo.lupion@escola.pr.gov.br
+-👀 Meu email de contato é [email](gustavo.lupion@escola.pr.gov.br)
 
 -🌱 Eu estou interessado em aprender a programar novas linguagens
 
